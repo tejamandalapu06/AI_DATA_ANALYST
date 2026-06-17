@@ -1,0 +1,11 @@
+ORDER_ID,PRODUCT,CATEGORY,SALES_AMOUNT,REGION,ORDER_DATE
+1,Laptop,Electronics,50000,South,2025-01-01
+2,Mouse,Electronics,1000,North,2025-01-05
+3,Keyboard,Electronics,2000,East,2025-01-10
+4,Monitor,Electronics,15000,West,2025-01-12
+5,Printer,Electronics,12000,South,2025-01-15
+6,Tablet,Electronics,25000,North,2025-01-18
+7,Phone,Electronics,40000,East,2025-01-20
+8,Speaker,Electronics,3000,West,2025-01-22
+9,Headphones,Electronics,2500,South,2025-01-25
+10,Webcam,Electronics,4500,North,2025-01-28
